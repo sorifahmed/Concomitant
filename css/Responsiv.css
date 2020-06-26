@@ -1,0 +1,75 @@
+@media screen and (max-width:968px){
+.contact {
+    margin-bottom: 49px;
+}
+.menubar ul li {
+    margin-bottom: 16px;
+}
+input#inputPassword2 {
+    width: 100%;
+}
+button.btn.mb-2 {
+    margin-left: -40px;
+}
+ 
+}
+
+@media screen and (max-width:768px){
+
+input#colFormLabel{
+    width: 100%;
+    height: 43px;  
+}
+.contact {
+    margin-bottom: 49px;
+}
+input#colFormLabelSm{
+	 width: 100%;
+    height: 43px;  
+}
+.menu{
+	float: none;
+}}
+
+@media screen and (max-width:576px){
+
+.searchbar {
+    margin-left: 32px;
+    padding-bottom: 11px;
+}
+button.btn.mb-2 {
+    margin-left: -24px;
+}
+
+
+
+
+
+
+
+
+}
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
